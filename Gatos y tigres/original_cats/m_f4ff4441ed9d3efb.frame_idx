@@ -1,0 +1,17 @@
+[sframe]
+version=0
+num_segments=0
+num_columns=5
+nrows=97
+[column_names]
+0000=id
+0001=image
+0002=extracted_features
+0003=path
+0004=type
+[column_files]
+0000=m_f4ff4441ed9d3efb.sidx:0
+0001=m_f4ff4441ed9d3efb.sidx:1
+0002=m_f4ff4441ed9d3efb.sidx:2
+0003=m_f4ff4441ed9d3efb.sidx:3
+0004=m_f4ff4441ed9d3efb.sidx:4
