@@ -1,0 +1,13 @@
+[sframe]
+version=0
+num_segments=0
+num_columns=3
+nrows=938
+[column_names]
+0000=imagefiles
+0001=location
+0002=prize
+[column_files]
+0000=m_fc2ff7461494d037.sidx:0
+0001=m_fc2ff7461494d037.sidx:1
+0002=m_fc2ff7461494d037.sidx:2
