@@ -73,6 +73,12 @@ ANIMALS,marmoset
 ANIMALS,gorilla, Gorilla gorilla
 ANIMALS,hamster
 ANIMALS,lynx, catamount
+ANIMALS,toy terrier
+ANIMALS,Australian terrier
+ANIMALS,cougar
+ANIMALS,warthog
+ANIMALS,Lakeland terrier
+ANIMALS,silky terrier
 ART/LITERATURE,book jacket, dust cover, dust jacket, dust wrapper
 ART/LITERATURE,bookshop, bookstore, bookstall
 ART/LITERATURE,brass, memorial tablet, plaque
@@ -106,6 +112,7 @@ AUTOMOTIVE/MOTORBIKES,odometer, hodometer, mileometer, milometer
 AUTOMOTIVE/MOTORBIKES,pickup, pickup truck
 AUTOMOTIVE/MOTORBIKES,jeep, landrover
 AUTOMOTIVE/MOTORBIKES,trailer truck, tractor trailer, trucking rig, rig, articulated lorry, semi
+AUTOMOTIVE/MOTORBIKES,car wheel
 BEAUTY,bib
 BEAUTY,face powder
 BEAUTY,lipstick, lip rouge
@@ -117,6 +124,7 @@ BEAUTY,wig
 BEAUTY,umbrella
 BEAUTY,barbershop
 BEAUTY,hair spray
+BEAUTY,perfume
 FOOD,bagel, beigel
 FOOD,butcher shop, meat market
 FOOD,cup
@@ -158,6 +166,8 @@ FOOD,mashed potato
 FOOD,corn
 FOOD,pretzel
 FOOD,red wine
+FOOD,cheeseburger
+FOOD,burrito
 SPORTS,balance beam, beam
 SPORTS,ballplayer, baseball player
 SPORTS,basketball
@@ -198,6 +208,7 @@ SPORTS,mountain bike, all-terrain bike, off-roader
 SPORTS,ski
 SPORTS,cricket
 SPORTS,boxer
+SPORTS,croquet ball
 ENTERTAINMENT/GAMES,balloon
 ENTERTAINMENT/GAMES,jack-o\'-lantern
 ENTERTAINMENT/GAMES,jellyfish
@@ -244,6 +255,8 @@ TECHNOLOGY,cash machine, cash dispenser, automated teller machine, automatic tel
 TECHNOLOGY,desktop computer
 TECHNOLOGY,reflex camera
 TECHNOLOGY,oscilloscope, scope, cathode-ray oscilloscope, CRO
+TECHNOLOGY,laptop
+TECHNOLOGY,screen
 NATURE,alp
 NATURE,cauliflower
 NATURE,daisy
@@ -271,6 +284,7 @@ NATURE,velvet
 NATURE,volcano
 NATURE,wing
 NATURE,worm fence, snake fence, snake-rail fence, Virginia fence
+NATURE,breakwater
 TOURISM,airliner
 TOURISM,bell cote, bell cot
 TOURISM,dome
@@ -288,7 +302,7 @@ TOURISM,triumphal arch
 TOURISM,viaduct
 TOURISM,gondola
 TOURISM,sarong
-TOURISM,bikini, two-piece
+TOURISM,monastery
 MUSIC,accordion, piano accordion, squeeze box
 MUSIC,acoustic guitar
 MUSIC,grand piano, grand
@@ -315,6 +329,7 @@ MUSIC,harmonica, mouth organ, harp, mouth harp
 MUSIC,harp
 MUSIC,French horn, horn
 MUSIC,bassoon
+MUSIC,upright, upright piano
 OTHERS,nematode, nematode worm, roundworm
 OTHERS,projectile, missile
 OTHERS,stretcher
@@ -369,3 +384,4 @@ OTHERS,sweatshirt
 OTHERS,wall clock
 OTHERS,shoe shop
 OTHERS,trench coat
+OTHERS,bikini, two-piece
