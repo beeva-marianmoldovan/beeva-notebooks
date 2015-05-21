@@ -80,6 +80,19 @@ ANIMALS,warthog
 ANIMALS,Lakeland terrier
 ANIMALS,silky terrier
 ANIMALS,aquatic bird
+ANIMALS,terrier
+ANIMALS,mammal
+ANIMALS,hunting dog
+ANIMALS,sporting dog
+ANIMALS,domestic animal
+ANIMALS,procyonid
+ANIMALS,carnivore
+ANIMALS,spaniel
+ANIMALS,spitz
+ANIMALS,turtle
+ANIMALS,bear
+ANIMALS,aquatic vertebrate
+ANIMALS,rodent
 ART/LITERATURE,book jacket, dust cover, dust jacket, dust wrapper
 ART/LITERATURE,bookshop, bookstore, bookstall
 ART/LITERATURE,brass, memorial tablet, plaque
@@ -131,6 +144,9 @@ BEAUTY,barbershop
 BEAUTY,hair spray
 BEAUTY,perfume
 BEAUTY,shower cap
+BEAUTY,decoration
+BEAUTY,toiletry
+BEAUTY,powder
 FOOD,bagel, beigel
 FOOD,butcher shop, meat market
 FOOD,cup
@@ -264,6 +280,7 @@ TECHNOLOGY,reflex camera
 TECHNOLOGY,oscilloscope, scope, cathode-ray oscilloscope, CRO
 TECHNOLOGY,laptop
 TECHNOLOGY,screen
+TECHNOLOGY,digital computer
 NATURE,alp
 NATURE,cauliflower
 NATURE,daisy
@@ -294,6 +311,9 @@ NATURE,worm fence, snake fence, snake-rail fence, Virginia fence
 NATURE,breakwater
 NATURE,mountain
 NATURE,shore
+NATURE,spermatophyte
+NATURE,natural elevation
+NATURE,cliff dwelling
 TOURISM,airliner
 TOURISM,bell cote, bell cot
 TOURISM,dome
@@ -338,9 +358,11 @@ MUSIC,oboe, hautboy, hautbois
 MUSIC,organ, pipe organ
 MUSIC,harmonica, mouth organ, harp, mouth harp
 MUSIC,harp
-MUSIC,French horn, horn
 MUSIC,bassoon
 MUSIC,upright, upright piano
+MUSIC,musical instrument
+MUSIC,guitar
+MUSIC,keyboard
 OTHERS,nematode, nematode worm, roundworm
 OTHERS,projectile, missile
 OTHERS,stretcher
@@ -396,3 +418,5 @@ OTHERS,wall clock
 OTHERS,shoe shop
 OTHERS,trench coat
 OTHERS,bikini, two-piece
+FASHION,woman's clothing
+FASHION,shoe
