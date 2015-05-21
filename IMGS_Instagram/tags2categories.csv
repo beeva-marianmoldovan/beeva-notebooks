@@ -79,6 +79,7 @@ ANIMALS,cougar
 ANIMALS,warthog
 ANIMALS,Lakeland terrier
 ANIMALS,silky terrier
+ANIMALS,aquatic bird
 ART/LITERATURE,book jacket, dust cover, dust jacket, dust wrapper
 ART/LITERATURE,bookshop, bookstore, bookstall
 ART/LITERATURE,brass, memorial tablet, plaque
@@ -113,6 +114,10 @@ AUTOMOTIVE/MOTORBIKES,pickup, pickup truck
 AUTOMOTIVE/MOTORBIKES,jeep, landrover
 AUTOMOTIVE/MOTORBIKES,trailer truck, tractor trailer, trucking rig, rig, articulated lorry, semi
 AUTOMOTIVE/MOTORBIKES,car wheel
+AUTOMOTIVE/MOTORBIKES,wheeled vehicle
+AUTOMOTIVE/MOTORBIKES,self-propelled vehicle
+AUTOMOTIVE/MOTORBIKES,car
+AUTOMOTIVE/MOTORBIKES,vehicle
 BEAUTY,bib
 BEAUTY,face powder
 BEAUTY,lipstick, lip rouge
@@ -169,6 +174,8 @@ FOOD,pretzel
 FOOD,red wine
 FOOD,cheeseburger
 FOOD,burrito
+FOOD,food
+FOOD,dish
 SPORTS,balance beam, beam
 SPORTS,ballplayer, baseball player
 SPORTS,basketball
@@ -216,7 +223,6 @@ ENTERTAINMENT/GAMES,jellyfish
 ENTERTAINMENT/GAMES,jigsaw puzzle
 ENTERTAINMENT/GAMES,pinwheel
 ENTERTAINMENT/GAMES,paintbrush
-ENTERTAINMENT/GAMES,pomegranate
 ENTERTAINMENT/GAMES,toyshop
 ENTERTAINMENT/GAMES,pencil box, pencil case
 ENTERTAINMENT/GAMES,joystick
@@ -286,6 +292,8 @@ NATURE,volcano
 NATURE,wing
 NATURE,worm fence, snake fence, snake-rail fence, Virginia fence
 NATURE,breakwater
+NATURE,mountain
+NATURE,shore
 TOURISM,airliner
 TOURISM,bell cote, bell cot
 TOURISM,dome
@@ -304,6 +312,8 @@ TOURISM,viaduct
 TOURISM,gondola
 TOURISM,sarong
 TOURISM,monastery
+TOURISM,fortification
+TOURISM,building
 MUSIC,accordion, piano accordion, squeeze box
 MUSIC,acoustic guitar
 MUSIC,grand piano, grand
