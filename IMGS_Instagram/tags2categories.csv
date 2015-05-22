@@ -100,37 +100,37 @@ ART/LITERATURE,menu
 ART/LITERATURE,slide rule, slipstick
 ART/LITERATURE,street sign
 ART/LITERATURE,library
-AUTOMOTIVE/MOTORBIKES,cab, hack, taxi, taxicab
-AUTOMOTIVE/MOTORBIKES,tricycle, trike, velocipede
-AUTOMOTIVE/MOTORBIKES,fire engine, fire truck
-AUTOMOTIVE/MOTORBIKES,paddlewheel, paddle wheel
-AUTOMOTIVE/MOTORBIKES,recreational vehicle, RV, R.V.
-AUTOMOTIVE/MOTORBIKES,speedboat
-AUTOMOTIVE/MOTORBIKES,thresher, thrasher, threshing machine
-AUTOMOTIVE/MOTORBIKES,minivan
-AUTOMOTIVE/MOTORBIKES,space shuttle
-AUTOMOTIVE/MOTORBIKES,submarine, pigboat, sub, U-boat
-AUTOMOTIVE/MOTORBIKES,catamaran
-AUTOMOTIVE/MOTORBIKES,gas pump, gasoline pump, petrol pump, island dispenser
-AUTOMOTIVE/MOTORBIKES,go-kart
-AUTOMOTIVE/MOTORBIKES,racer, race car, racing car
-AUTOMOTIVE/MOTORBIKES,sports car, sport car
-AUTOMOTIVE/MOTORBIKES,tractor
-AUTOMOTIVE/MOTORBIKES,scooter motor
-AUTOMOTIVE/MOTORBIKES,crash helmet
-AUTOMOTIVE/MOTORBIKES,moped
-AUTOMOTIVE/MOTORBIKES,seat belt, seatbelt
-AUTOMOTIVE/MOTORBIKES,snowmobile
-AUTOMOTIVE/MOTORBIKES,motor scooter, scooter
-AUTOMOTIVE/MOTORBIKES,odometer, hodometer, mileometer, milometer
-AUTOMOTIVE/MOTORBIKES,pickup, pickup truck
-AUTOMOTIVE/MOTORBIKES,jeep, landrover
-AUTOMOTIVE/MOTORBIKES,trailer truck, tractor trailer, trucking rig, rig, articulated lorry, semi
-AUTOMOTIVE/MOTORBIKES,car wheel
-AUTOMOTIVE/MOTORBIKES,wheeled vehicle
-AUTOMOTIVE/MOTORBIKES,self-propelled vehicle
-AUTOMOTIVE/MOTORBIKES,car
-AUTOMOTIVE/MOTORBIKES,vehicle
+AUTO/MOTORBIKES,cab, hack, taxi, taxicab
+AUTO/MOTORBIKES,tricycle, trike, velocipede
+AUTO/MOTORBIKES,fire engine, fire truck
+AUTO/MOTORBIKES,paddlewheel, paddle wheel
+AUTO/MOTORBIKES,recreational vehicle, RV, R.V.
+AUTO/MOTORBIKES,speedboat
+AUTO/MOTORBIKES,thresher, thrasher, threshing machine
+AUTO/MOTORBIKES,minivan
+AUTO/MOTORBIKES,space shuttle
+AUTO/MOTORBIKES,submarine, pigboat, sub, U-boat
+AUTO/MOTORBIKES,catamaran
+AUTO/MOTORBIKES,gas pump, gasoline pump, petrol pump, island dispenser
+AUTO/MOTORBIKES,go-kart
+AUTO/MOTORBIKES,racer, race car, racing car
+AUTO/MOTORBIKES,sports car, sport car
+AUTO/MOTORBIKES,tractor
+AUTO/MOTORBIKES,scooter motor
+AUTO/MOTORBIKES,crash helmet
+AUTO/MOTORBIKES,moped
+AUTO/MOTORBIKES,seat belt, seatbelt
+AUTO/MOTORBIKES,snowmobile
+AUTO/MOTORBIKES,motor scooter, scooter
+AUTO/MOTORBIKES,odometer, hodometer, mileometer, milometer
+AUTO/MOTORBIKES,pickup, pickup truck
+AUTO/MOTORBIKES,jeep, landrover
+AUTO/MOTORBIKES,trailer truck, tractor trailer, trucking rig, rig, articulated lorry, semi
+AUTO/MOTORBIKES,car wheel
+AUTO/MOTORBIKES,wheeled vehicle
+AUTO/MOTORBIKES,self-propelled vehicle
+AUTO/MOTORBIKES,car
+AUTO/MOTORBIKES,vehicle
 BEAUTY,bib
 BEAUTY,face powder
 BEAUTY,lipstick, lip rouge
@@ -192,6 +192,7 @@ FOOD,cheeseburger
 FOOD,burrito
 FOOD,food
 FOOD,dish
+FOOD,fruit
 SPORTS,balance beam, beam
 SPORTS,ballplayer, baseball player
 SPORTS,basketball
@@ -334,6 +335,8 @@ TOURISM,sarong
 TOURISM,monastery
 TOURISM,fortification
 TOURISM,building
+TOURISM,beacon
+TOURISM,lighter-than-air craft
 MUSIC,accordion, piano accordion, squeeze box
 MUSIC,acoustic guitar
 MUSIC,grand piano, grand
